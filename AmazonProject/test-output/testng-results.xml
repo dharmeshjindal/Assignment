@@ -14,16 +14,16 @@ Easy Returns: This product is eligible for replacement within 10 days of deliver
 › See more product details]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-11T19:41:45 IST" name="Suite" finished-at="2022-12-11T19:42:56 IST" duration-ms="71818">
+  <suite started-at="2022-12-12T13:44:52 IST" name="Suite" finished-at="2022-12-12T13:46:02 IST" duration-ms="69698">
     <groups>
     </groups>
-    <test started-at="2022-12-11T19:41:45 IST" name="Test" finished-at="2022-12-11T19:42:56 IST" duration-ms="71818">
+    <test started-at="2022-12-12T13:44:52 IST" name="Test" finished-at="2022-12-12T13:46:02 IST" duration-ms="69698">
       <class name="testScripts.SearchItem">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.SearchItem@209da20d]" started-at="2022-12-11T19:41:45 IST" name="setUp" finished-at="2022-12-11T19:42:02 IST" duration-ms="17146" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.SearchItem@2ed2d9cb]" started-at="2022-12-12T13:44:52 IST" name="setUp" finished-at="2022-12-12T13:45:02 IST" duration-ms="10049" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="filterProduct()[pri:0, instance:testScripts.SearchItem@209da20d]" started-at="2022-12-11T19:42:02 IST" name="filterProduct" finished-at="2022-12-11T19:42:56 IST" duration-ms="54569" status="PASS">
+        <test-method signature="filterProduct()[pri:0, instance:testScripts.SearchItem@2ed2d9cb]" started-at="2022-12-12T13:45:02 IST" name="filterProduct" finished-at="2022-12-12T13:46:02 IST" duration-ms="59344" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[About this item
@@ -39,6 +39,10 @@ Easy Returns: This product is eligible for replacement within 10 days of deliver
             </line>
           </reporter-output>
         </test-method> <!-- filterProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScripts.SearchItem@2ed2d9cb]" started-at="2022-12-12T13:46:02 IST" name="tearDown" finished-at="2022-12-12T13:46:02 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- testScripts.SearchItem -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
