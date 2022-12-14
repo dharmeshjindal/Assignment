@@ -12,6 +12,7 @@ public static WebDriver driver;
 	
 	
 	public static void initialize() {
+		//
 		
 			WebDriverManager.chromedriver().setup();
 			  driver = new ChromeDriver();
